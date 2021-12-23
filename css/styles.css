@@ -10,7 +10,13 @@ hr{
 }
 h1{
   color: #66BFBF;
+
 }
 h3{
   color: #66BFBF;
+  margin: 50px auto 10px;
+
+}
+.contactme{
+  margin-top: 50px;
 }
